@@ -8,4 +8,4 @@ This is a Java port of the deskew code found at http://www.codeproject.com/Artic
 
 I wrote this with at the time for use with ImageIO, but it would probably be helpful if there were some abstraction for this.
 
-It is released under the Code Project Open License: http://www.codeproject.com/info/cpol10.aspx
+It is released under the Apache License 2.0.
